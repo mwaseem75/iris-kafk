@@ -19,7 +19,6 @@ As of January 2022, PEX supports Python, Java, and .NET (C#) languages. PEX prov
 2. Execute:
 ```
 git clone https://github.com/mwaseem75/iris-kafka-intro.git
-cd pex-demo
 docker compose pull
 docker compose up -d
 ```
